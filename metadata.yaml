@@ -1,0 +1,43 @@
+_repo: Essays-on-Wit-No.-2_14973
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Hooker, Edward Niles
+    deathdate: 1957
+    gutenberg_agent_id: '6755'
+    url: http://www.gutenberg.org/2009/agents/6755
+  contributors:
+  - agent_name: Warton, Joseph
+    birthdate: 1722
+    deathdate: 1800
+    gutenberg_agent_id: '5764'
+    url: http://www.gutenberg.org/2009/agents/5764
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Warton
+  - agent_name: Flecknoe, Richard
+    alias: Fleckno, Richard
+    gutenberg_agent_id: '5763'
+    url: http://www.gutenberg.org/2009/agents/5763
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Flecknoe
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2005-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14973'
+language: en
+publication_note: 'Los Angeles :  The Augustan Reprint Society,  1946'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Augustan Reprint Society, publication number 04
+subjects:
+- !lcsh 'Wit and humor'
+- !lcc 'PN'
+tableOfContents: "Introduction, by Hooker\r\nEssay on Wit, by Anonymous (1748)\r\n\
+  Character. Of one that Zany's the good Companion, by Flecknoe (1665)\r\nCharacter.\
+  \ Of a bold abusive Wit, by Flecknoe (1665)\r\nThe Adventurer. No. 127, by Warton\
+  \ (1754)\r\nThe Adventurer. No. 133, by Warton (1754)\r\nOf Wit, by Anonymous (1732)."
+title: Essays on Wit No. 2
+url: http://www.gutenberg.org/ebooks/14973
